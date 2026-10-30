@@ -193,6 +193,13 @@
     "desc": "Evidence-first AppSec review skill that sends every candidate finding to an independent verifier before reporting it, for developers auditing code they are authorized to test."
   },
   {
+    "name": "skill-firewall",
+    "url": "https://github.com/Charles950311/skill-firewall",
+    "category": "security",
+    "desc": "Zero-dependency pre-install gate for agent skills: 12 explainable rules for prompt injection, credential exfiltration, obfuscation and persistence, each finding tied to a file:line with a CI exit code.",
+    "repo": "Charles950311/skill-firewall"
+  },
+  {
     "name": "skill-creator (Anthropic)",
     "url": "https://github.com/anthropics/skills/blob/main/skill-creator/SKILL.md",
     "category": "authoring",
