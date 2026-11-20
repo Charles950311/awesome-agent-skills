@@ -319,5 +319,12 @@
     "url": "https://github.com/Shaisolaris/solaris-dev-shop",
     "category": "collections",
     "desc": "Free MIT skill library whose chief of staff assigns one specialist to a task."
+  },
+  {
+    "desc": "Finds the best GTM APIs and searches every plan through Datacircle's open API, no key needed. Site: https://datacircle.dev",
+    "name": "Datacircle",
+    "repo": "waynehamadi/datacircle",
+    "url": "https://github.com/waynehamadi/datacircle/tree/main/skills/datacircle",
+    "category": "collections"
   }
 ]
